@@ -26,12 +26,12 @@ const About = () => {
           <p className='text-white'>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem at aspernatur <br /> blanditiis ad dolore delectus quasi reiciendis! Delectus exercitationem at quidem recusandae porro! Esse laborum vero at sed, exercitationem tempora!
           </p>
-          <p className='mt-3 mb-3 text-[#5FCBBA] text-4xl'>
+          <p className='mt-3 mb-3 text-[#62d0c0] text-4xl'>
             Gouri Pundir
           </p>
           <div className="flex space-x-6 size-full text-[#5FCBBA]">
             <BiLogoFacebookCircle />
-            <BiLogoTwitter />
+            <BiLogoTwitter/>
             <BiLogoInstagramAlt />
           </div>
         </div>
